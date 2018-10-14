@@ -1585,13 +1585,13 @@
 	}
 
 	img.SickGraphic {
-	height: 79%;
+	height: 90%;
 	width: 120%;
 	float: left;
 	margin-bottom: 2%;
 	position: relative;
-	right: 40%;
-	bottom: 8%;
+	right: 51%;
+	bottom: 2%;
 	}
 
 	#menu_Bar{
@@ -1612,8 +1612,8 @@
 
 	img.icon2 {
 		border-radius: 8px;
-		height: 84.84%;
 		width: 84.84%;
+		padding-top: 100%
 		display:block;
 		margin-left: auto;
 		margin-right: auto;
@@ -1634,7 +1634,7 @@
 		font-size: 150%;
 		text-align: left;
 		float: left;
-		top: 50%;
+		top: 25%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
@@ -2825,6 +2825,7 @@
 		margin-left: -1px;
 		margin-top: -1px;
 		width: 16.666666666%;
+		height: 35%
 	}
 
 	.feature2 {
