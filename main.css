@@ -1557,6 +1557,10 @@
 		font-size: 200%;
 		color:#000000;
 		line-height: 150%;
+		position: relative;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
 	}
 
 	.line{
@@ -1585,13 +1589,13 @@
 	}
 
 	img.SickGraphic {
-	height: 90%;
-	width: 120%;
-	float: left;
-	margin-bottom: 2%;
-	position: relative;
-	right: 51%;
-	bottom: 2%;
+	 	height: 85%;
+	  width: 120%;
+    float: left;
+	  margin-bottom: 2%;
+   position: relative;
+	 right: 51%;
+   bottom: -3%;
 	}
 
 	#menu_Bar{
@@ -1634,7 +1638,7 @@
 		font-size: 150%;
 		text-align: left;
 		float: left;
-		top: 25%;
+		top: 30%;
 		left: 50%;
 		transform: translate(-50%,-50%);
 	}
